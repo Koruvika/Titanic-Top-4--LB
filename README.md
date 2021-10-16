@@ -1,2 +1,7 @@
-# Titanic-Top-4--LB
-Get top 4% leaderboard Titanic Competition
+# Titanic: Machine Learning from Disaster
+
+Goal: Get 4% top leaderboard 
+
+----------------------------------------
+|| 16/10/2021 || Accuracy || 10% LB   ||
+----------------------------------------
