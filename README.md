@@ -4,8 +4,8 @@
 
 ### The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-
-Goal: Get 4% top leaderboard 
+------------------------
+### Goal: Get 4% top leaderboard 
 
 | Date       | Accuracy | Leaderboard |
 |:--- | ---: | :---:|
