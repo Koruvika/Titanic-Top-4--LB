@@ -3,4 +3,4 @@
 Goal: Get 4% top leaderboard 
 | Date       | Accuracy | Leaderboard |
 |:--- | ---: | :---:|
-| 16/10/2021 | Accuracy | 10%         |
+| 16/10/2021 | 0.78708 | 10% |
